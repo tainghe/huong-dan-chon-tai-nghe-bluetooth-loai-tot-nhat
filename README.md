@@ -1,0 +1,4 @@
+# bang-gia-day-gian-tuong-gia-re-va-dep
+Code lựa chọn bảng giá dấy gián tường rẻ đẹp
+
+Nhà đại gia mà cũng thích sử dụng giấy dán tường có lẽ vì sự tiện dụng và đây là bài viết tham khảo <a href="https://medium.com/@soi_nguyen_journalist/b%E1%BA%A3ng-gi%C3%A1-gi%E1%BA%A5y-d%C3%A1n-t%C6%B0%E1%BB%9Dng-%C4%91%E1%BA%B9p-gi%C3%A1-r%E1%BA%BB-h%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-l%E1%BB%B1a-ch%E1%BB%8Dn-v%C3%A0-ch%E1%BB%97-mua-838517c971f3">https://medium.com/@soi_nguyen_journalist/b%E1%BA%A3ng-gi%C3%A1-gi%E1%BA%A5y-d%C3%A1n-t%C6%B0%E1%BB%9Dng-%C4%91%E1%BA%B9p-gi%C3%A1-r%E1%BA%BB-h%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-l%E1%BB%B1a-ch%E1%BB%8Dn-v%C3%A0-ch%E1%BB%97-mua-838517c971f3</a>, vì dấy gián tường dễ dàng thay đổi kiểu cách, chứ không như sơn tường, mỗi lần muốn thay đổi màu sắc lại mất nhiều công đoạn để làm lại. Giấy dán tường nhiều ưu điểm hơn như hoa văn đẹp, mẫu tranh 3d, dễ dàng thay thế...
