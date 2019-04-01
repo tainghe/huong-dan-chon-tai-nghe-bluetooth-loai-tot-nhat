@@ -1,7 +1,7 @@
 {
-    "name": "giaydantuong/bang-gia-day-gian-tuong-gia-re-va-dep",
-    "description": "Giaydantuong Framework.",
-    "keywords": ["framework", "giaydantuong"],
+    "name": "tainghe/huong-dan-chon-tai-nghe-bluetooth-loai-tot-nhat",
+    "description": "TaingheBluetooth Framework.",
+    "keywords": ["framework", "tainghebluetooth"],
     "license": "MIT",
     "type": "project",
     "require": {
